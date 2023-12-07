@@ -9,5 +9,3 @@ sudo bash install_docker.sh
 
 # install k8s
 sudo bash install_k8s.sh
-
-sudo reboot
