@@ -2,7 +2,7 @@
 
 # install packages
 sudo apt update
-sudo apt install git vim netcat-traditional curl ca-certificates curl gnupg -y
+sudo apt install git vim netcat-traditional ca-certificates curl gnupg -y
 
 # install docker and configuration
 sudo bash install_docker.sh
